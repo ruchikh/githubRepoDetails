@@ -12,6 +12,19 @@
 .App-link {
   color: #61dafb;
 }
+h4 {
+  cursor: pointer;
+}
+
+h4:hover {
+  text-decoration: underline;
+  color: blue;
+  letter-spacing: 0.4;
+}
+
+.fa-github{
+  margin-right: 10px;
+}
 
 input{
   padding: 8px 50px;

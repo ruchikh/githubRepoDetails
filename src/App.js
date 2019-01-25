@@ -38,7 +38,8 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-          <h1>GitHub Organization Repo Details</h1>
+        
+          <h1><i className="fab fa-github"></i>GitHub Organization Repo Details</h1>
         </header>
         <div className="main-container">
           <div>
